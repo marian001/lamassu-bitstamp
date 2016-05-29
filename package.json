@@ -1,6 +1,6 @@
 {
   "name": "lamassu-bitstamp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lamassu Bitstamp ticker and trader",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,7 @@
   "bin": {
     "bitstamp-setup": "./setup"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "async": "~0.2.10",
     "lamassu-config": "^0.4.4",
