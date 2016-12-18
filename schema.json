@@ -6,7 +6,6 @@
       "code": "clientId",
       "display": "Client ID",
       "fieldType": "string",
-      "secret": false,
       "required": true,
       "value": ""
     },
@@ -14,15 +13,13 @@
       "code": "key",
       "display": "API key",
       "fieldType": "string",
-      "secret": false,
       "required": true,
       "value": ""
     },
     {
       "code": "secret",
       "display": "API secret",
-      "fieldType": "string",
-      "secret": true,
+      "fieldType": "password",
       "required": true,
       "value": ""
     }
