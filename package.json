@@ -1,6 +1,6 @@
 {
   "name": "lamassu-bitstamp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Lamassu Bitstamp ticker and trader",
   "main": "index.js",
   "repository": {
